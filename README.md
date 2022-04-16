@@ -1,4 +1,4 @@
-# EA-DenseFuse
+# EA-DenseFuse: Edge-loss and Attention DenseFuse
 > 改进DenseFuse：加入注意力机制和边缘损失函数
 
 ## 说明
